@@ -1,0 +1,12 @@
+sites:
+  - name: "Exemple JobBoard"
+    url: "https://www.exemplejobboard.ca/jobs"
+    selectors:
+      job: ".job-listing"               # Sélecteur CSS du bloc offre
+      title: ".job-title"
+      link: ".job-title a"
+      location: ".job-location"
+      date: ".job-date"
+      summary: ".job-description"
+      date_format: "%Y-%m-%d"           # Format de la date sur le site
+  # Ajoute ici d'autres sites : adapte les selecteurs CSS à chaque site ciblé
