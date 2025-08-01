@@ -1,0 +1,10 @@
+feeds:
+  - name: JobBank Canada
+    url: https://www.jobbank.gc.ca/rss/JobFeed?format=RSS
+  - name: Workopolis
+    url: https://www.workopolis.com/jobsearch/rss?locale=fr_CA
+  - name: Talent.com
+    url: https://ca.talent.com/rss/search?l=Canada
+  - name: Indeed Canada
+    url: https://www.indeed.com/rss?q=&l=Canada
+  # Ajoute ici d'autres flux RSS officiels de provinces ou sites spécialisés
