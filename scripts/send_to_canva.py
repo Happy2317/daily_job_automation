@@ -38,4 +38,4 @@ def main():
     print(f"Fichier exporté pour Canva/Make : {out_path}")
 
 if __name__ == "__main__":
-    main()
+    safe_run(main)
