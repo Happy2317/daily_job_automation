@@ -1,3 +1,4 @@
+from scripts.patched_utils import log_success, log_error, log_warning, safe_write, safe_to_csv, deduplicate_offers, parse_date_safe, limit_offers, safe_run
 import pandas as pd
 import os
 import re
