@@ -1,0 +1,10 @@
+```yaml
+services:
+  - type: cron
+    name: daily-job-bot
+    env: python
+    schedule: "0 5,12,19 * * *"
+    buildCommand: pip install -r requirements.txt
+    startCommand: python run_pipeline.py
+    repo: https://github.com/Happy2317/daily_job_automation
+```
