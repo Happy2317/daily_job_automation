@@ -77,4 +77,4 @@ def main():
     print(f"Fichier final nettoyé : {out_path}")
 
 if __name__ == "__main__":
-    main()
+    safe_run(main)
