@@ -28,4 +28,4 @@ def main():
     print(f"Export enrichi avec images : {out_path}")
 
 if __name__ == "__main__":
-    main()
+    safe_run(main)
