@@ -1,0 +1,7 @@
+pandas
+requests
+beautifulsoup4
+feedparser
+jinja2
+pyyaml
+```
