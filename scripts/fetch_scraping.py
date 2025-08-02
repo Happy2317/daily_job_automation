@@ -80,4 +80,4 @@ def main():
     print(f"Scraping terminé, {len(all_offers)} offres collectées. Sauvegardé dans {out_path}")
 
 if __name__ == "__main__":
-    main()
+    safe_run(main)
