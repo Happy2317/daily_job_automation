@@ -56,4 +56,4 @@ def main():
     print(f"Fetched {len(all_entries)} offers from RSS. Saved to {out_path}")
 
 if __name__ == "__main__":
-    main()
+    safe_run(main)
