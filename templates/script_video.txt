@@ -1,0 +1,12 @@
+### 🎯 {{ poste }}
+📍 {{ ville }}, {{ province }}
+🏢 {{ entreprise }}
+💼 {{ contrat }} | 💵 Salaire: {{ salaire }}
+📅 Date limite: {{ date_limite }}
+🛂 Visa/EIMT: {{ eimt }} | 🏡 Logement: {{ logement }}
+👥 Profil: {{ profil }}
+🔗 Voir lien en commentaire
+🖼️ Image: {{ image }}
+🎙️ Voix off:
+> Offre au Canada ! {{ resume }} Intéressé(e) ? Like, partage et consulte les commentaires pour le lien.
+📲 ❤️ Like • 🔁 Partage • 💬 Consulte les commentaires pour les liens
