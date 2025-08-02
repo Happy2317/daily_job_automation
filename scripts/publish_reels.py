@@ -21,4 +21,4 @@ def main():
         print("Aucun script vidéo trouvé à publier.")
 
 if __name__ == "__main__":
-    main()
+    safe_run(main)
