@@ -48,4 +48,4 @@ def main():
     print(f"{len(scripts)} scripts vidéos générés dans {out_path}")
 
 if __name__ == "__main__":
-    main()
+    safe_run(main)
